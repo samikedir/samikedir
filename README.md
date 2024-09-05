@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sami!
 - 👀 I’m interested in data analysis and software development.
-- 🌱 I’m currently learning about data structures and object-oriented programming as well as discrete structures and its implementation in code. 
+- 🌱 I’m currently learning about network information systems and assurance, SQL, and bash implementations. 
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: email - samikedir9502@gmail.com  
 - ⚡ Fun fact: Aside from computers, my other passion is any and everything regarding motorcycles!
